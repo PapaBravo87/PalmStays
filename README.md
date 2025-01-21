@@ -1,1 +1,2 @@
-# PalmStays
+# PalmStaysResort
+Resort
